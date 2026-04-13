@@ -14923,7 +14923,3 @@ Updated Feb 28, 2026
 Test your understanding of Claude Code and Claude Cowork's architecture, extensibility features, and workflow patterns. This assessment covers installation, configuration, MCP integration, subagents, skills, hooks, settings hierarchy, plugin architecture, browser integration, connectors, and built-in document Skills.
 
 Checking access...
-
----
-
-Source: https://agentfactory.panaversity.org/docs/01-General-Agents-Foundations/03-general-agents
